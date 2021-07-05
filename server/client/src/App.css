@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+body {
+    background-color: rgb(250, 249, 249);
+}
+
+a {
+    color: black !important;
+}
+
+.brand-logo, h2 {
+    font-family: 'Grand Hotel', cursive;
+}
+
+.login_button {
+    margin-top: 10px;
+}
+
+.Forget {
+    color: #1E88E5 !important;
+    font-weight: 600;
+}
+
+.Login {
+    margin-top: 30px;
+}
+
+.Login__Card {
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.Login__Card input:focus {
+    border-bottom: 1px solid rgb(8, 93, 242) !important;
+    box-shadow: 0 1px 0 0 rgb(8, 93, 242) !important;
+}
+
+.Login__RegisterButton {
+    color: #1E88E5 !important;
+}
+
+.Home__Card {
+    max-width: 500px;
+    height: max-content;
+    margin: 26px auto;
+}
+
+.likes {
+    color: red;
+}
+
+.collection-item {
+    width: 100%;
+    color: black !important;
+}
+
+.CreatePost {
+    margin: 10px auto;
+    max-width: 500px;
+    padding: 20px;
+    text-align: center;
+}
+
+#toast-container {
+    top: 30px !important;
+    right: 20px !important;
+    left: auto !important;
+}
+
+.likeIcon:hover {
+    cursor: pointer;
+}
+
+.deleteComment {
+    float: right;
+}

@@ -1,9 +1,13 @@
 # Instagram-Clone
 
 Key Skills : MERN (MongoDb, Expressjs, React, Nodejs)
+
 Front End : React + React Context API
+
 Back End : Nodejs, Expressjs
+
 Databse : MongoDB (Atlas) + Cloudinary (for uploading images)
+
 Deployed on : Heroku (Link - https://insta-clone-25.herokuapp.com)
 
 1. Developed a full-stack web application using MERN stack which have similar functionalities as Instagram.
